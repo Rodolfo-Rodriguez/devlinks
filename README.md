@@ -20,4 +20,4 @@
 ### Tools
 * [NPM](https://www.npmjs.com/)
 ### Modules
-* [JQuery](https://www.w3schools.com/js/default.asp)
+* [JQuery](https://jquery.com)
