@@ -14,3 +14,11 @@
 
 ### Other
 * [Running a Flask App on AWS EC2](https://www.datasciencebytes.com/bytes/2015/02/24/running-a-flask-app-on-aws-ec2/)
+
+# JavaScript
+
+### Lists
+* [Awsome-JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+
+### Tools
+* [NPM](https://www.npmjs.com/)
