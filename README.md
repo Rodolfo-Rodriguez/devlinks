@@ -19,3 +19,5 @@
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ### Tools
 * [NPM](https://www.npmjs.com/)
+### Modules
+* [JQuery](https://www.w3schools.com/js/default.asp)
