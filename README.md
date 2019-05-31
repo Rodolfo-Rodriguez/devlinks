@@ -16,7 +16,7 @@
 * [Awsome-JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 ### Tutorial
 * [W3Schools](https://www.w3schools.com/js/default.asp)
-* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 ### Tools
 * [NPM](https://www.npmjs.com/)
 ### Modules
