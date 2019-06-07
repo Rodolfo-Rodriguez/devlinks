@@ -21,3 +21,4 @@
 * [NPM](https://www.npmjs.com/)
 ### Modules
 * [JQuery](https://jquery.com)
+* [ProgressBar](https://kimmobrunfeldt.github.io/progressbar.js/)
